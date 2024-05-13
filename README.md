@@ -1,1 +1,9 @@
 # LEGENDS_AERY_ACE
+
+rm -rf LEGENDS_AERY_ACE
+
+git clone https://github.com/SKMAHIN99935/LEGENDS_AERY_ACE.git
+
+cd LEGENDS_AERY_ACE
+
+python RANDOM.py
